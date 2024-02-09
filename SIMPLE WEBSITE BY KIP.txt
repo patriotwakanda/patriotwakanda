@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+</head>
+<body>
+    <Question 1
+Identify twelve (12) sources of information about legal compliance requirements in the community service sector.
+Must give two (2) examples from;
+o	Local
+-Local councils often provide information on regulations and requirements specific to their area. Eg Brisbane City Council Community development.
+-Community legal centers: These organizations often offer resources and advice on legal matters relevant to the local community. Eg Redfern Legal Centre (RLC) - New South Wales:
+o	state/territory
+-legal aid organizations can offer legal assistance and information according to laws of the specific state. Eg Legal Aid New South Wales (NSW)
+-sate department or agencies websites responsible for community services 
+o	Commonwealth
+-Australian Government Department of Social Services (DSS)
+-Australian Government Attorney-General's Department
+o	regulatory agencies
+-Australian Charities and Not-for-profits Commission (ACNC)
+-Australian Human Rights Commission
+o	Industry associations and
+-Community Services Industry Alliance (CSIA)
+>
+</body>
+</html>
